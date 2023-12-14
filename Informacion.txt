@@ -1,0 +1,8 @@
+Este proyecto esta creado en: Java, Patron de diseño ScreenPlay, Serenity, Cucumber
+
+Datos previos antes de ejecutarlos:
+1 Verificar la version de navegador Chrome.
+2 Descargar la version de chromedriver para la version del navegador https://googlechromelabs.github.io/chrome-for-testing/
+3 Descomprimir el archivo y el .exe agregarlo en la siguiente ruta: src/test/resources/webdriver/windows
+4 Los datos de pruebas estan el la siguiente ruta: src\test\resources\Datos\Datos.properties en esta pueden ponder el usuario y contraseña
+5 para ejecutar debe utilizar la clase Runner ruta: src/test/java/Runner/Runner.java
